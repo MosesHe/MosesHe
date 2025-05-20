@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋I'm Moses!
+
+* 💻 I'm interested in **Golang**, **cloud-native technologies** and **AI applications**.
+* 🤖 Always exploring the latest AI tools and how they can enhance software development and developer productivity.
+* ❤️ When I'm not coding, you'll often find me pursuing my interests in **photography**📸 or staying active with **fitness** 💪.
+* 🌱 Keen to learn, collaborate on interesting projects, and connect with fellow tech enthusiasts!
 
 <!--
 **MosesHe/MosesHe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
