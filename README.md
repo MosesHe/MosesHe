@@ -1,6 +1,6 @@
 ## Hi there 👋I'm Moses!
 
-* 💻 I'm interested in **Golang**, **cloud-native technologies** and **AI applications**.
+* 💻 I'm interested in **Golang**, **Cloud-Native technologies** and **AI applications**.
 * 🤖 Always exploring the latest AI tools and how they can enhance software development and developer productivity.
 * ❤️ When I'm not coding, you'll often find me pursuing my interests in **photography**📸 or staying active with **fitness** 💪.
 * 🌱 Keen to learn, collaborate on interesting projects, and connect with fellow tech enthusiasts!
